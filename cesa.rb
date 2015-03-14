@@ -9,8 +9,6 @@ end
 #commit 1
 #commit 2
 #commit 1 de b3
-<<<<<<< HEAD
+
 #commit 12 de b3
-=======
 #commit 4 de b3
->>>>>>> 3
